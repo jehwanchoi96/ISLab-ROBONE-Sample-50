@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this sample, you MUST cite the paper below (see LICENSE)."
+title: "ISLab-ROBONE-Sample-50: A 50-image public reference sample of the ROBONE plastic-waste detection dataset"
+authors:
+  - family-names: "Choi"
+    given-names: "Jehwan"
+    affiliation: "Intelligent System Laboratory, University of Ulsan"
+    email: "cjh1897@ulsan.ac.kr"
+  - family-names: "Jo"
+    given-names: "Kanghyun"
+    affiliation: "Intelligent System Laboratory, University of Ulsan"
+    email: "acejo@ulsan.ac.kr"
+license: "CC-BY-NC-SA-4.0"
+date-released: 2026-06-15
+preferred-citation:
+  type: article
+  title: "Illumination-Invariant Lightweight Plastic Waste Detection for Industrial Edge Sensors"
+  authors:
+    - family-names: "Choi"
+      given-names: "Jehwan"
+    - family-names: "Jo"
+      given-names: "Kanghyun"
+  journal: "IEEE Sensors Journal"
+  year: 2026

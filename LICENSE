@@ -1,0 +1,77 @@
+ISLab-ROBONE-Sample-50 — License
+==================================
+
+Copyright (c) 2026 Intelligent System Laboratory (ISLab),
+University of Ulsan, Ulsan 44610, South Korea.
+
+This work (the 50 RGB images, their YOLO-format annotations, `classes.txt`,
+`README.md`, and this `LICENSE` file collectively referred to as "the Sample")
+is released under the Creative Commons Attribution-NonCommercial-ShareAlike
+4.0 International License (CC BY-NC-SA 4.0) WITH AN ADDITIONAL
+CITATION REQUIREMENT specified below.
+
+---------------------------------------------------------------------
+Section 1 — Base License (CC BY-NC-SA 4.0)
+---------------------------------------------------------------------
+
+You are free to:
+
+  - Share — copy and redistribute the Sample in any medium or format.
+  - Adapt — remix, transform, and build upon the Sample.
+
+Under the following terms:
+
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made.
+  - NonCommercial — You may not use the Sample for commercial purposes.
+  - ShareAlike — If you remix, transform, or build upon the Sample, you
+    must distribute your contributions under the same license.
+
+To view the full text of the base license, visit
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode .
+
+---------------------------------------------------------------------
+Section 2 — Citation Requirement (binding)
+---------------------------------------------------------------------
+
+In addition to the attribution clause of the base license, you MUST
+explicitly cite the following paper in any publication, preprint,
+technical report, thesis, white paper, slide deck, course material,
+blog post, or other public work that:
+
+  (a) uses the Sample in whole or in part,
+  (b) presents qualitative examples drawn from the Sample,
+  (c) trains, fine-tunes, or evaluates any model on the Sample, or
+  (d) discusses or reports on properties of the Sample.
+
+Required citation:
+
+  J. Choi and K. Jo, "Illumination-Invariant Lightweight Plastic Waste
+  Detection for Industrial Edge Sensors," IEEE Sensors Journal, 2026.
+
+Use of this Sample without citation of the above paper constitutes a
+material breach of this license and terminates the rights granted in
+Section 1 automatically.
+
+---------------------------------------------------------------------
+Section 3 — Commercial Use
+---------------------------------------------------------------------
+
+Commercial use of the Sample (including but not limited to integration
+into commercial products, commercial services, paid training data
+pipelines, or commercial demonstrations) is NOT permitted under this
+license. For commercial licensing, contact:
+
+  Prof. Kanghyun Jo
+  Intelligent System Laboratory (ISLab)
+  Department of Electrical, Electronic, and Computer Engineering
+  University of Ulsan, Ulsan 44610, South Korea
+  acejo@ulsan.ac.kr
+
+---------------------------------------------------------------------
+Section 4 — No Warranty
+---------------------------------------------------------------------
+
+The Sample is provided "as is", without warranty of any kind, express
+or implied. The authors and the University of Ulsan disclaim all
+liability for any use of the Sample.
